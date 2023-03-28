@@ -20,13 +20,13 @@ let g:colors_name = "yami"
 
 
 " Color palette
-let s:lime   = "#ffb700"
+let s:lime   = "#d6ebc7"
 let s:light  = "#d4d4d5"
 let s:dark   = "#000000"
 let s:gray0  = "#666666"
 let s:gray1  = "#323232"
 let s:gray2  = "#23242a"
-let s:gray3  = "#000000"
+let s:gray3  = "#2b2b2b"
 let s:yellow = "#ffe59e"
 let s:blue   = "#52de97"
 let s:green  = "#79dcaa"
